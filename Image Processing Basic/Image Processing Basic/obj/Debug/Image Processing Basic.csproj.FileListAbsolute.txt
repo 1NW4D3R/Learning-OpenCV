@@ -1,0 +1,13 @@
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\bin\Debug\Image Processing Basic.exe.config
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\bin\Debug\Image Processing Basic.exe
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\bin\Debug\Image Processing Basic.pdb
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\bin\Debug\OpenCvSharp.dll
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.csproj.AssemblyReference.cache
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image_Processing_Basic.Form1.resources
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image_Processing_Basic.Properties.Resources.resources
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.csproj.GenerateResource.cache
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.csproj.CoreCompileInputs.cache
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.csproj.CopyComplete
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.exe
+C:\Users\balogh.balint\source\repos\Image Processing Basic\Image Processing Basic\obj\Debug\Image Processing Basic.pdb

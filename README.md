@@ -9,3 +9,7 @@
  - [ ] Tutorial 05 - HistogramBox , ImageBox and PictureBox using EmguCv | Source Code
  - [ ] Tutorial 06 - How to Create Image Histogram in Emgu CV | Source Code
  - [ ] Tutorial 07 - How to Detect Circle Objects Using Open CV With C# | Source Code
+
+
+## UPDATE
+ - 2023.01.19: A Vírusírtó sajnos blokkolja a háttérben az OenCV több fájlját is. Ezért nem sikerült egyelőre tovább haladnom. Ezért a G-Code Editort fejlesztettem.
